@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1099194412142",
+    "firebase_url": "https://dtabaseproject-3e8fa.firebaseio.com",
+    "project_id": "dtabaseproject-3e8fa",
+    "storage_bucket": "dtabaseproject-3e8fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099194412142:android:6c585b9e8e4bcc00264a7f",
+        "android_client_info": {
+          "package_name": "com.example.dtabaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099194412142-n32vpcq6m843tacenqklcludd9n9qd7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dtabaseproject",
+            "certificate_hash": "b332695f9f1e194ccb60f5f7551d015345e8cea2"
+          }
+        },
+        {
+          "client_id": "1099194412142-5gmbq2ihgj08kmuupb7e0tmhel3hn80b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNSvDIxhyYb7i15J_Fu2o61jPglot68E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099194412142-5gmbq2ihgj08kmuupb7e0tmhel3hn80b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

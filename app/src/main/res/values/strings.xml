@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DtabaseProject</string>
+    <array name="genres">
+        <item>Rock</item>
+        <item>Sufi</item>
+        <item>Pop</item>
+        <item>Focks</item>
+    </array>
+</resources>
